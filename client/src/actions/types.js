@@ -1,0 +1,25 @@
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+export const GET_PROFILE = "GET_PROFILE";
+export const GET_PROFILES = "GET_PROFILES";
+export const UPDATE_PROFILE = "UPDATE_PROFILE";
+export const CLEAR_PROFILE = "CLEAR_PROFILE";
+export const PROFILE_ERROR = "PROFIL_ERROR";
+export const ACCOUNT_DELETED = "ACCOUNT_DELETED";
+export const POST_ERROR = "POST_ERROR";
+
+export const GET_COUPONS = "GET_COUPONS";
+export const SHOP_ERROR = "SHOP_ERROR";
+export const WISH_ERROR = "WISH_ERROR";
+export const COUPON_ERROR = "COUPON_ERROR";
+export const UPDATE_SHOP = "UPDATE_SHOP";
+export const UPDATE_WISH = "UPDATE_WISH";
+export const DELETE_COUPON = "DELETE_COUPON";
+export const ADD_COUPON = "ADD_COUPON";
